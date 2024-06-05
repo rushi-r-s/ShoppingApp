@@ -1,0 +1,6 @@
+Tue Jun 04 18:02:33 CDT 2024 - Failed login attempt for user: vinci
+Tue Jun 04 18:02:58 CDT 2024 - Login successful for user: vinci
+Tue Jun 04 18:03:46 CDT 2024 - Order created for user: vinci with total amount: $3000.0
+Tue Jun 04 18:03:47 CDT 2024 - Payment failed for order: Failed
+Tue Jun 04 18:03:53 CDT 2024 - Order created for user: vinci with total amount: $3000.0
+Tue Jun 04 18:03:54 CDT 2024 - Payment successful for order: Completed
